@@ -10,6 +10,11 @@
 #### Generando build de front
 
     cd frontend && npm run build
+
+
+#### Ejecutando en local
+
+    cd frontend && npm start
     
     
 #### Accediendo a web local
